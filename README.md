@@ -19,11 +19,3 @@ Download the `.msi` or `.exe` file and run the installer.
 
 ### macOS
 Download the `.dmg` file, open it, and drag the app to Applications.
-
-### Linux
-Download the `.AppImage` file and make it executable:
-\`\`\`bash
-chmod +x OpenLayers*.AppImage
-./OpenLayers*.AppImage
-\`\`\`
-" > README
